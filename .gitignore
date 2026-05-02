@@ -1,0 +1,20 @@
+# Virtual environments
+.venv/
+.venv311/
+venv/
+env/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# IDE
+.idea/
+.vscode/
+
+# Data files (optional, if large)
+*.csv
+
+# Output folders
+output/
+output_ml/
